@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" monitorInterval="30">
+    <Properties>
+        <Property name="LOG_PATTERN">[%d{yyyy-MM-dd HH:mm:ss}] [ %-5p] [%c{1}:%L] %m%n</Property>
+        <!--<Property name="APP_LOG_ROOT">./logs</Property>-->
+    </Properties>
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT" follow="true">
+            <PatternLayout pattern="${LOG_PATTERN}" />
+        </Console>
+        <File name="File" fileName="logs/logfile.log" append="false">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+        </File>
+        <RollingFile name="RollingFile" fileName="logs/logfile.log" filePattern="logs/logfile.%d{yyyy-MM-dd}.log">
+            <PatternLayout pattern="${LOG_PATTERN}" />
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10 MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="5"/>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Logger name="com.log4j2.codeinn" additivity="false">
+            <AppenderRef ref="File" />
+            <AppenderRef ref="Console" />
+        </Logger>
+        <Root level="debug">
+            <AppenderRef ref="Console" />
+        </Root>
+    </Loggers>
+</Configuration>
+
