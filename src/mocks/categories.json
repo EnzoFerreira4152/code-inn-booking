@@ -1,0 +1,2302 @@
+[
+	{
+		"type": "hoteles",
+		"totalProducts": 12345,
+		"imageUrl": "https://images.unsplash.com/photo-1455587734955-081b22074882?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+		"accommodations": [
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8b",
+				"title": "Hermitage Hotel",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8c",
+				"title": "Howard Johnson's",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8c",
+				"title": "Hotel San Telmo",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con el mejor servicio y una gran variedad de opciones."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8baf",
+				"title": "Up Recoleta Hotel",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de Recoleta, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8b",
+				"title": "Obelisco Hoteles",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1592229505726-ca121723b8ef?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de Buenos Aires, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0a8f8b8b8b",
+				"title": "Key Hotels San Telmo",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1587874522487-fe10e954d035?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9d2f9f8b8b0f8f8b8b8b",
+				"title": "Gran Hotel Argentino",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1592229505801-77b31918d822?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de La Boca, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "6d8b9c9f9f8b8b0f8f8b8b8b",
+				"title": "Super Hotel Argentino",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=449"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de La Boca, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			}
+		]
+	},
+	{
+		"type": "hostels",
+		"totalProducts": 54321,
+		"imageUrl": "https://images.unsplash.com/photo-1608198399988-341f712c3711?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+		"accommodations": [
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8b",
+				"title": "Hermitage Hotel",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "2",
+					"type": "hostel"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8c",
+				"title": "Howard Johnson's",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "2",
+					"type": "hostel"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8c",
+				"title": "Hotel San Telmo",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con el mejor servicio y una gran variedad de opciones."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "2",
+					"type": "hostel"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8baf",
+				"title": "Up Recoleta Hotel",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de Recoleta, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "2",
+					"type": "hostel"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8b",
+				"title": "Obelisco Hoteles",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1592229505726-ca121723b8ef?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de Buenos Aires, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "2",
+					"type": "hostel"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0a8f8b8b8b",
+				"title": "Key Hotels San Telmo",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1587874522487-fe10e954d035?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "2",
+					"type": "hostel"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9d2f9f8b8b0f8f8b8b8b",
+				"title": "Gran Hotel Argentino",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1592229505801-77b31918d822?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de La Boca, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "2",
+					"type": "hostel"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "6d8b9c9f9f8b8b0f8f8b8b8b",
+				"title": "Super Hotel Argentino",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=449"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de La Boca, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "2",
+					"type": "hostel"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			}
+		]
+	},
+	{
+		"type": "departamentos",
+		"totalProducts": 2354,
+		"imageUrl": "https://images.unsplash.com/photo-1592229505801-77b31918d822?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774",
+		"accommodations": [
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8b",
+				"title": "Hermitage Hotel",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8c",
+				"title": "Howard Johnson's",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8c",
+				"title": "Hotel San Telmo",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con el mejor servicio y una gran variedad de opciones."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8baf",
+				"title": "Up Recoleta Hotel",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de Recoleta, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8b",
+				"title": "Obelisco Hoteles",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1592229505726-ca121723b8ef?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de Buenos Aires, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0a8f8b8b8b",
+				"title": "Key Hotels San Telmo",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1587874522487-fe10e954d035?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9d2f9f8b8b0f8f8b8b8b",
+				"title": "Gran Hotel Argentino",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1592229505801-77b31918d822?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de La Boca, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "6d8b9c9f9f8b8b0f8f8b8b8b",
+				"title": "Super Hotel Argentino",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=449"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de La Boca, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "3",
+					"type": "departamento"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			}
+		]
+	},
+	{
+		"type": "bead and breakfast",
+		"totalProducts": 1032,
+		"imageUrl": "https://images.unsplash.com/photo-1616627561839-074385245ff6?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634",
+		"accommodations": [
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8b",
+				"title": "Hermitage Hotel",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "4",
+					"type": "bead and breakfast"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8c",
+				"title": "Howard Johnson's",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "4",
+					"type": "bead and breakfast"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8c",
+				"title": "Hotel San Telmo",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con el mejor servicio y una gran variedad de opciones."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "4",
+					"type": "bead and breakfast"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8baf",
+				"title": "Up Recoleta Hotel",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de Recoleta, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "4",
+					"type": "bead and breakfast"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0f8f8b8b8b",
+				"title": "Obelisco Hoteles",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1592229505726-ca121723b8ef?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de Buenos Aires, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "4",
+					"type": "bead and breakfast"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9c9f9f8b8b0a8f8b8b8b",
+				"title": "Key Hotels San Telmo",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1587874522487-fe10e954d035?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "4",
+					"type": "bead and breakfast"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "5d8b9d2f9f8b8b0f8f8b8b8b",
+				"title": "Gran Hotel Argentino",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1592229505801-77b31918d822?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de La Boca, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "4",
+					"type": "bead and breakfast"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			},
+			{
+				"_id": "6d8b9c9f9f8b8b0f8f8b8b8b",
+				"title": "Super Hotel Argentino",
+				"ratingText": "Bueno",
+				"address": "Av. Siempreviva 724",
+				"liked": false,
+				"images": [
+					{
+						"_id": "1",
+						"title": "Cama Hotel",
+						"url": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=449"
+					},
+					{
+						"_id": "2",
+						"title": "Vista a la playa",
+						"url": "https://images.unsplash.com/photo-1602002418211-9d76470fa71f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+					},
+					{
+						"_id": "3",
+						"title": "Spa",
+						"url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "4",
+						"title": "Gimnasio",
+						"url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+					},
+					{
+						"_id": "5",
+						"title": "Desayuno",
+						"url": "https://images.unsplash.com/photo-1596252890311-caa6a004a6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+					}
+				],
+				"description": {
+					"title": "Alojate en el corazón de la ciudad",
+					"text": "En el corazón de La Boca, disfruta de un albergue inspirado en las pasiones de Buenos Aires."
+				},
+				"rating": 8,
+				"stars": 5,
+				"city": { "_id": "1", "name": "Buenos Aires" },
+				"category": {
+					"_id": "4",
+					"type": "bead and breakfast"
+				},
+				"characteristics": [
+					{ "_id": "2", "title": "aire acondicionado" },
+					{ "_id": "6", "title": "desayuno" },
+					{ "_id": "8", "title": "jardin" },
+					{ "_id": "9", "title": "gimnasio" },
+					{ "_id": "13", "title": "estacionamiento" },
+					{ "_id": "15", "title": "piscina al aire libre" }
+				],
+
+				"latitude": -34.612,
+				"longitude": -58.412,
+				"rules": [
+					{ "_id": "1", "title": "No fumar" },
+					{ "_id": "2", "title": "Mascotas: no se permiten" },
+					{ "_id": "3", "title": "Check-in: 2:00 PM" }
+				],
+				"safety": [
+					{
+						"_id": "1",
+						"title": "Se aplican las pautas de distanciamiento social y otras normas de seguridad relacionadas con el coronavirus."
+					},
+					{ "_id": "2", "title": "Detección de humno" },
+					{ "_id": "3", "title": "Politicas de seguridad" },
+					{ "_id": "4", "title": "Caja de seguridad" }
+				],
+				"cancelation": 2
+			}
+		]
+	}
+]

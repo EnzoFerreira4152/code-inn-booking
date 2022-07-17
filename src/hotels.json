@@ -1,0 +1,101 @@
+[
+	{
+		"type": "hotel",
+		"name": "Hermitage Hotel",
+		"rating": 8,
+		"address": 600,
+		"stars": 5,
+		"price": 200,
+		"liked": false,
+		"description": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires.",
+		"imageUrl": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+	},
+	{
+		"type": "hotel",
+		"name": "Howard Johnson's",
+		"rating": 9,
+		"address": 300,
+		"stars": 5,
+		"price": 300,
+		"liked": true,
+		"description": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad.",
+		"imageUrl": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+	},
+	{
+		"type": "hotel",
+		"name": "Hotel San Telmo",
+		"rating": 7,
+		"address": 500,
+		"stars": 3,
+		"price": 200,
+		"liked": true,
+		"description": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con el mejor servicio y una gran variedad de opciones.",
+		"imageUrl": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+	},
+	{
+		"type": "hotel",
+		"name": "Up Recoleta Hotel",
+		"rating": 9,
+		"address": 1500,
+		"stars": 4,
+		"price": 200,
+		"liked": false,
+		"description": "En el corazón de Recoleta, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad.",
+		"imageUrl": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+	},
+	{
+		"type": "hotel",
+		"name": "Obelisco Hoteles",
+		"rating": 8,
+		"address": 100,
+		"stars": 3,
+		"price": 200,
+		"liked": false,
+		"description": "En el corazón de Buenos Aires, disfruta de un albergue inspirado en las pasiones de Buenos Aires. Con una vista privilegiada a la ciudad.",
+		"imageUrl": "https://images.unsplash.com/photo-1592229505726-ca121723b8ef?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774"
+	},
+	{
+		"type": "hotel",
+		"name": "Hermitage Hotel",
+		"rating": 8,
+		"address": 600,
+		"stars": 5,
+		"price": 200,
+		"liked": true,
+		"description": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires.",
+		"imageUrl": "https://images.unsplash.com/photo-1584132915807-fd1f5fbc078f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+	},
+	{
+		"type": "hotel",
+		"name": "Key Hotels San Telmo",
+		"rating": 8,
+		"address": 600,
+		"stars": 5,
+		"price": 200,
+		"liked": false,
+		"description": "En el corazón de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires.",
+		"imageUrl": "https://images.unsplash.com/photo-1587874522487-fe10e954d035?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+	},
+	{
+		"type": "hotel",
+		"name": "Gran Hotel Argentino",
+		"rating": 8,
+		"address": 600,
+		"stars": 5,
+		"price": 200,
+		"liked": false,
+		"description": "En el corazón de La Boca, disfruta de un albergue inspirado en las pasiones de Buenos Aires.",
+		"imageUrl": "https://images.unsplash.com/photo-1592229505801-77b31918d822?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774"
+	},
+	{
+		"type": "hotel",
+		"name": "Super Hotel Argentino",
+		"rating": 9,
+		"address": 1600,
+		"stars": 4,
+		"price": 200,
+		"liked": true,
+		"description": "En el corazón de La Boca, disfruta de un albergue inspirado en las pasiones de Buenos Aires.",
+		"imageUrl": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=449"
+	}
+]

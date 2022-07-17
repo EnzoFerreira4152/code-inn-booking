@@ -1,0 +1,46 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.image-gallery-content .image-gallery-slide .image-gallery-image{
+    max-height: 60vh;
+    object-fit: cover;
+    padding-bottom: 4em;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.image-gallery-thumbnail-image{
+    border-radius: 10px !important;
+    height: 5em;
+    /* width: 8em !important; */
+}
+
+.image-gallery-thumbnail.active, 
+.image-gallery-thumbnail:focus,
+.image-gallery-thumbnail:hover{
+    border-radius: 15px !important;
+    border-color: #31363F;
+}
+
+.image-gallery-right-nav,
+.image-gallery-left-nav{
+    color: white;
+}
+
+.image-gallery-left-nav .image-gallery-svg, .image-gallery-right-nav .image-gallery-svg{
+    height: 80px;
+    width: 40px;
+}
+
+.image-gallery-index{
+    position: absolute;
+    bottom: 0em;
+    margin-left: auto;
+    margin-bottom: auto;
+    left: 0;
+    right: 0;
+    top: auto;
+    text-align: center;
+    background: transparent;
+    color: #31363F;
+    font-size: 1.5em;
+    font-weight: 600;
+}

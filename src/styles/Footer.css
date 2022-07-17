@@ -1,0 +1,62 @@
+/* --------------------------------- General -------------------------------- */
+footer {
+	align-items: center;
+	bottom: 0;
+	color: white;
+	display: flex;
+	flex: 0 0 auto;
+	font-weight: bold;
+	height: 3.5rem;
+	justify-content: space-between;
+	margin: 0;
+	padding: 0 2.5rem;
+	position: fixed;
+	bottom: 0;
+	z-index: 999;
+	width: -webkit-fill-available;
+}
+
+@media screen and (max-width: 768px) {
+	footer {
+		padding: 0 1.5rem;
+	}
+}
+
+@media screen and (max-width: 576px) {
+	footer {
+		padding: 0 1rem;
+	}
+}
+
+/* -------------------------------- Copyright ------------------------------- */
+.copyright {
+	align-items: center;
+	display: flex;
+	flex-shrink: 0;
+}
+
+/* --------------------------------- Socials -------------------------------- */
+.social-container {
+	display: flex;
+	max-width: 20rem;
+}
+
+.social-container > * {
+	margin-left: 1.75rem;
+}
+
+.social-icon > svg {
+	color: white;
+	height: 1.8rem;
+	width: 1.8rem;
+}
+
+footer a {
+	all: unset;
+	cursor: pointer;
+}
+
+footer a:hover {
+	color: white;
+	filter: brightness(0.7);
+}
